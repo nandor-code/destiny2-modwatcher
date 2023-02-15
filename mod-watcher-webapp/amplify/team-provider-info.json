@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-modwatcherwebapp-dev-93952-authRole",
+      "UnauthRoleArn": "arn:aws:iam::808785418188:role/amplify-modwatcherwebapp-dev-93952-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::808785418188:role/amplify-modwatcherwebapp-dev-93952-authRole",
+      "Region": "us-west-2",
+      "DeploymentBucketName": "amplify-modwatcherwebapp-dev-93952-deployment",
+      "UnauthRoleName": "amplify-modwatcherwebapp-dev-93952-unauthRole",
+      "StackName": "amplify-modwatcherwebapp-dev-93952",
+      "StackId": "arn:aws:cloudformation:us-west-2:808785418188:stack/amplify-modwatcherwebapp-dev-93952/5fcc3110-42ea-11eb-9dad-0a98c2a2572b",
+      "AmplifyAppId": "d2aunjedj2mffu"
+    }
+  }
+}

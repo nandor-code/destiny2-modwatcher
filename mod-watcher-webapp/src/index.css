@@ -1,0 +1,31 @@
+@font-face {
+  font-family: "Destiny_Symbols_PC";
+  src: url(./fonts/Destiny_Symbols_PC.otf);
+}
+
+* {
+  font-family: Helvetica, Destiny_Symbols_PC !important;
+}
+
+:root {
+  --font-display: "Neue Haas Grotesk Display", "Destiny_Symbols_PC", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "NotoColorEmoji", "Segoe UI Symbol",
+    "Android Emoji", "EmojiSymbols";
+  --font-text: "Neue Haas Grotesk Text", "Destiny_Symbols_PC", sans-serif,
+    "Apple Color Emoji", "Segoe UI Emoji", "NotoColorEmoji", "Segoe UI Symbol",
+    "Android Emoji", "EmojiSymbols";
+  --font-serif: "Cromwell", "Destiny_Symbols_PC", serif, "Apple Color Emoji",
+    "Segoe UI Emoji", "NotoColorEmoji", "Segoe UI Symbol", "Android Emoji",
+    "EmojiSymbols";
+}
+
+body {
+  margin: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}

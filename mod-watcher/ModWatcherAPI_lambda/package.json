@@ -1,0 +1,16 @@
+{
+  "name": "modwatcherapi_lambda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "ModWatcherAPI_lambda.js",
+  "dependencies": {
+    "axios": "^0.21.1",
+    "mailgun-js": "^0.22.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
